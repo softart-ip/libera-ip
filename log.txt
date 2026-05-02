@@ -7,3 +7,4 @@
 01/05/2026, 20:42:29 | 187.108.209.114 | Kleber | teste de liberação
 01/05/2026, 20:43:26 | 170.247.144.16 | Tania | Libera meu ip local
 01/05/2026, 20:44:08 | 187.108.209.114 | Arthur | ultimo teste
+01/05/2026, 21:02:57 | 170.247.144.16 | arthur | teste lib já feita
