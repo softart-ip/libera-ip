@@ -24,3 +24,4 @@
 02/05/2026, 12:50:01 | 187.108.209.114 | Arthur | Minha máquina
 02/05/2026, 12:54:32 | 170.247.144.16 | arthur | Lib máquina escritório
 02/05/2026, 13:27:24 | 170.247.144.16 | Arthur | Libração PC Escritório
+15/10/2026, 08:32:23 | 187.108.214.124 | Arthur | Novo IP de Casa
